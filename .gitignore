@@ -50,6 +50,3 @@ build
 
 # Editor
 .idea
-
-ext.json
-dist
