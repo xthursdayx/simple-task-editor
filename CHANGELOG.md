@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.4](https://github.com/standardnotes/app/compare/@standardnotes/simple-task-editor@1.4.3...@standardnotes/simple-task-editor@1.4.4) (2022-09-07)
+
+### Bug Fixes
+
+* add min-height to task textarea ([#1490](https://github.com/standardnotes/app/issues/1490)) ([0e86b13](https://github.com/standardnotes/app/commit/0e86b13a8f3b11ed99cdc49b3a44665396bfca98))
+
+## [1.4.3](https://github.com/standardnotes/app/compare/@standardnotes/simple-task-editor@1.4.2...@standardnotes/simple-task-editor@1.4.3) (2022-07-14)
+
+### Bug Fixes
+
+* **ste:** revert border radius change ([b174493](https://github.com/standardnotes/app/commit/b174493b4ea3ca164cf5754ab791022b17b612ac))
+
+## [1.4.2](https://github.com/standardnotes/app/compare/@standardnotes/simple-task-editor@1.4.1...@standardnotes/simple-task-editor@1.4.2) (2022-07-13)
+
+**Note:** Version bump only for package @standardnotes/simple-task-editor
+
+## [1.4.1](https://github.com/standardnotes/app/compare/@standardnotes/simple-task-editor@1.4.0...@standardnotes/simple-task-editor@1.4.1) (2022-07-06)
+
+### Bug Fixes
+
+* **advanced checklist:** improve editor styles ([#1221](https://github.com/standardnotes/app/issues/1221)) ([f7ba658](https://github.com/standardnotes/app/commit/f7ba6588a7d062e3ec82e6413042ce5d8cd075f7))
+
 # [1.4.0](https://github.com/standardnotes/app/compare/@standardnotes/simple-task-editor@1.3.15...@standardnotes/simple-task-editor@1.4.0) (2022-06-28)
 
 ### Features
